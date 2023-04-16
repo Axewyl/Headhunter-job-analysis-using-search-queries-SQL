@@ -1,4 +1,4 @@
-# Проект-1. Анализ резюме из HeadHunter
+# Проект-2. Анализ вакансий Headhunter с использованием поисковых запросов-SQL
 
 ## Оглавлелние
 [1. Описание проекта](https://github.com/Axewyl/Headhunter-job-analysis-using-search-queries-SQL/blob/master/README.md#Описание-проекта)
